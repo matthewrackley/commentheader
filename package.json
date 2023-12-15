@@ -2,6 +2,10 @@
   "name": "commentsections",
   "displayName": "CommentSections",
   "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matthewrackley/commentheader.git"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.85.0"
